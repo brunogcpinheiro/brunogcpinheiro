@@ -7,6 +7,7 @@ I'm Bruno Pinheiro! I'm a Software Engineer at Klever and I've been working in t
 These are some of the technologies and tools that I work with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![ReactJS](https://user-images.githubusercontent.com/13948019/159125812-466a3295-a37c-4a1f-815d-10655955f58e.png)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
