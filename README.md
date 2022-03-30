@@ -4,7 +4,7 @@ I'm Bruno Pinheiro! I'm a Software Engineer at Klever and I've been working in t
 
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
+These are some of the technologies and tools that I work/worked with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
