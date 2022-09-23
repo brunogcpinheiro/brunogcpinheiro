@@ -7,7 +7,7 @@ I'm Bruno Pinheiro! I'm a Software Engineer at Klever and I've been working in t
 These are some of the technologies and tools that I work/worked with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![ReactJS](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![VueJS](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -15,7 +15,6 @@ These are some of the technologies and tools that I work/worked with:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
