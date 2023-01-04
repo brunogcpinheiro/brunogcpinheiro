@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bruno Pinheiro! I'm a Software Engineer at Klever and I've been working in tech since 2020, but as a student since 2017. I'm from Brazil and I'm currently living in Uberaba/MG.
+I'm Bruno Pinheiro! I'm a Software Engineer at Klever and I've been working in tech since 2020, but as a self taught student since 2017. I'm from Brazil and I'm currently living in Uberaba/MG.
 
 ## ⚡ Technologies
 
